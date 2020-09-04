@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/186jfsipeewltfnj?svg=true)](https://ci.appveyor.com/project/tarapiygin/ahj-env)
